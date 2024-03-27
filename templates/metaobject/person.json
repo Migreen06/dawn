@@ -1,7 +1,46 @@
 {
   "sections": {
+    "collage_wRTFRg": {
+      "type": "collage",
+      "blocks": {
+        "image_4gmWp8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-pixabay-248980.jpg"
+          }
+        },
+        "product_zk3GUk": {
+          "type": "product",
+          "settings": {
+            "product": "selling-plans-ski-wax",
+            "second_image": false
+          }
+        },
+        "collection_JEP4EJ": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        }
+      },
+      "block_order": [
+        "image_4gmWp8",
+        "product_zk3GUk",
+        "collection_JEP4EJ"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
   },
   "order": [
-
+    "collage_wRTFRg"
   ]
 }
