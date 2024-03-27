@@ -56,7 +56,7 @@
           "type": "heading",
           "source": "{{ metaobject }}",
           "settings": {
-            "heading": "bh njk",
+            "heading": "{{ metaobject.gender.value }}",
             "heading_size": "h1"
           }
         },
